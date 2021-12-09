@@ -1,0 +1,58 @@
+.left{
+    text-align: left;
+    width: 176px;
+}
+.right{
+    text-align: right;
+    width:155px;
+}
+.center{
+    text-align: center;
+width: 275px;
+}
+h1{
+    font-size: 16px;
+    text-align: center;
+}
+table,td,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.first-table{
+    display: flex;
+    justify-content: center;
+    margin-bottom:50px;
+}
+.second-table{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.second-table table tr td{
+    width: 99.67px;
+}
+.table-three{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;;
+}
+.table-three td{
+    width: 202px;
+    height: 13px;
+}
+.fourth-table{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.fourth-table tr td{
+    width: 165px;
+    height: 13px;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
